@@ -55,6 +55,9 @@ Smart unlimited calls and text package: Smart - No unlimited calls & texts packa
 Globe unlimited calls and text package: Globe - Unlimited calls & texts to Globe/TM network only
 Ditto unlimited calls and text package: Ditto - Unlimited calls & texts to all networks
 ```
+## Class Diagram
+
+![Visitor Pattern UML Diagram](https://github.com/JLNerecina/Lab_SW_VisitorPattern/blob/main/Visitor%20Pattern%20UML.png)
 
 ## How to Run
 
